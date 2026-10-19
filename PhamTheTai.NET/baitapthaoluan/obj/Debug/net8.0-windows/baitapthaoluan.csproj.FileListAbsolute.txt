@@ -1,0 +1,46 @@
+C:\.NET\baitapthaoluan\bin\Debug\net8.0-windows\baitapthaoluan.exe
+C:\.NET\baitapthaoluan\bin\Debug\net8.0-windows\baitapthaoluan.deps.json
+C:\.NET\baitapthaoluan\bin\Debug\net8.0-windows\baitapthaoluan.runtimeconfig.json
+C:\.NET\baitapthaoluan\bin\Debug\net8.0-windows\baitapthaoluan.dll
+C:\.NET\baitapthaoluan\bin\Debug\net8.0-windows\baitapthaoluan.pdb
+C:\.NET\baitapthaoluan\obj\Debug\net8.0-windows\baitapthaoluan.GeneratedMSBuildEditorConfig.editorconfig
+C:\.NET\baitapthaoluan\obj\Debug\net8.0-windows\baitapthaoluan.AssemblyInfoInputs.cache
+C:\.NET\baitapthaoluan\obj\Debug\net8.0-windows\baitapthaoluan.AssemblyInfo.cs
+C:\.NET\baitapthaoluan\obj\Debug\net8.0-windows\baitapthaoluan.csproj.CoreCompileInputs.cache
+C:\.NET\baitapthaoluan\obj\Debug\net8.0-windows\baitapthaoluan.sourcelink.json
+C:\.NET\baitapthaoluan\obj\Debug\net8.0-windows\baitapthaoluan.dll
+C:\.NET\baitapthaoluan\obj\Debug\net8.0-windows\refint\baitapthaoluan.dll
+C:\.NET\baitapthaoluan\obj\Debug\net8.0-windows\baitapthaoluan.pdb
+C:\.NET\baitapthaoluan\obj\Debug\net8.0-windows\baitapthaoluan.genruntimeconfig.cache
+C:\.NET\baitapthaoluan\obj\Debug\net8.0-windows\ref\baitapthaoluan.dll
+C:\.NET\baitapthaoluan\obj\Debug\net8.0-windows\baitapthaoluan.phana.bai1.resources
+C:\.NET\baitapthaoluan\obj\Debug\net8.0-windows\baitapthaoluan.csproj.GenerateResource.cache
+C:\.NET\baitapthaoluan\obj\Debug\net8.0-windows\baitapthaoluan.FormMDI.resources
+C:\.NET\baitapthaoluan\obj\Debug\net8.0-windows\baitapth.226B17A1.Up2Date
+C:\.NET\baitapthaoluan\obj\Debug\net8.0-windows\baitapthaoluan.phana.bai2.resources
+C:\.NET\baitapthaoluan\obj\Debug\net8.0-windows\baitapthaoluan.phana.bai3.resources
+C:\.NET\baitapthaoluan\obj\Debug\net8.0-windows\baitapthaoluan.phana.bai4.resources
+C:\.NET\baitapthaoluan\obj\Debug\net8.0-windows\baitapthaoluan.phanb.bai1.resources
+D:\Bài Tập Ở Word\.NET\baitapthaoluan\bin\Debug\net8.0-windows\baitapthaoluan.exe
+D:\Bài Tập Ở Word\.NET\baitapthaoluan\bin\Debug\net8.0-windows\baitapthaoluan.deps.json
+D:\Bài Tập Ở Word\.NET\baitapthaoluan\bin\Debug\net8.0-windows\baitapthaoluan.runtimeconfig.json
+D:\Bài Tập Ở Word\.NET\baitapthaoluan\bin\Debug\net8.0-windows\baitapthaoluan.dll
+D:\Bài Tập Ở Word\.NET\baitapthaoluan\bin\Debug\net8.0-windows\baitapthaoluan.pdb
+D:\Bài Tập Ở Word\.NET\baitapthaoluan\obj\Debug\net8.0-windows\baitapthaoluan.main.resources
+D:\Bài Tập Ở Word\.NET\baitapthaoluan\obj\Debug\net8.0-windows\baitapthaoluan.phana.bai1.resources
+D:\Bài Tập Ở Word\.NET\baitapthaoluan\obj\Debug\net8.0-windows\baitapthaoluan.phana.bai2.resources
+D:\Bài Tập Ở Word\.NET\baitapthaoluan\obj\Debug\net8.0-windows\baitapthaoluan.phana.bai3.resources
+D:\Bài Tập Ở Word\.NET\baitapthaoluan\obj\Debug\net8.0-windows\baitapthaoluan.phana.bai4.resources
+D:\Bài Tập Ở Word\.NET\baitapthaoluan\obj\Debug\net8.0-windows\baitapthaoluan.phanb.bai1.resources
+D:\Bài Tập Ở Word\.NET\baitapthaoluan\obj\Debug\net8.0-windows\baitapthaoluan.csproj.GenerateResource.cache
+D:\Bài Tập Ở Word\.NET\baitapthaoluan\obj\Debug\net8.0-windows\baitapthaoluan.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bài Tập Ở Word\.NET\baitapthaoluan\obj\Debug\net8.0-windows\baitapthaoluan.AssemblyInfoInputs.cache
+D:\Bài Tập Ở Word\.NET\baitapthaoluan\obj\Debug\net8.0-windows\baitapthaoluan.AssemblyInfo.cs
+D:\Bài Tập Ở Word\.NET\baitapthaoluan\obj\Debug\net8.0-windows\baitapthaoluan.csproj.CoreCompileInputs.cache
+D:\Bài Tập Ở Word\.NET\baitapthaoluan\obj\Debug\net8.0-windows\baitapthaoluan.sourcelink.json
+D:\Bài Tập Ở Word\.NET\baitapthaoluan\obj\Debug\net8.0-windows\baitapthaoluan.dll
+D:\Bài Tập Ở Word\.NET\baitapthaoluan\obj\Debug\net8.0-windows\refint\baitapthaoluan.dll
+D:\Bài Tập Ở Word\.NET\baitapthaoluan\obj\Debug\net8.0-windows\baitapthaoluan.pdb
+D:\Bài Tập Ở Word\.NET\baitapthaoluan\obj\Debug\net8.0-windows\baitapthaoluan.genruntimeconfig.cache
+D:\Bài Tập Ở Word\.NET\baitapthaoluan\obj\Debug\net8.0-windows\ref\baitapthaoluan.dll
+D:\Bài Tập Ở Word\.NET\baitapthaoluan\obj\Debug\net8.0-windows\baitapth.226B17A1.Up2Date
